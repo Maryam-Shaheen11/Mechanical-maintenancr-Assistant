@@ -1,0 +1,1 @@
+This machine-readable starter knowledge base was prepared from the supplied engineering diagnostic-table PDF. Keep the original PDF separately in the repository if you want to include it as a source/reference.
