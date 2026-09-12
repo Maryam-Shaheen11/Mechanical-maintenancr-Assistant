@@ -20,3 +20,5 @@ Push to GitHub, create a Streamlit app using `app.py`, and add `GROQ_API_KEY` in
 
 ## Safety
 This is first-line decision support, not a replacement for a qualified maintenance engineer, OEM manual, LOTO procedure, or site risk assessment.
+##
+ APP LINK =https://mechanical-maintenancr-assistant.streamlit.app/
